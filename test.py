@@ -6,7 +6,7 @@ def sign(num):
 	else:
 		return -1
 
-print sign(3)
+print sign(999999999)
 print sign(-9)
 
 def greet():
